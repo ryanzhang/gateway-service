@@ -113,7 +113,7 @@
                 <config>
                   <spring-boot>
                     <fromMode>isTag</fromMode>
-                    <from>fis-java-openshift:2.0</from>
+                    <from>redhat-openjdk18-openshift:1.2</from>
                   </spring-boot>
                 </config>
               </generator>
